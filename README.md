@@ -1,0 +1,1 @@
+these are just test package, to see how to read data from blob storage using azure sdk
